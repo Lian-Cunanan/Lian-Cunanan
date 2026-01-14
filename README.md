@@ -14,6 +14,7 @@ I specialize in **AI model training** (YOLOv5, YOLOv8, Ultralytics, TensorFlow) 
 - **Languages:** HTML, CSS, Python, JavaScript, PHP
 - **AI Frameworks:** Ultralytics, TensorFlow, YOLO (v5 & v8)
 - **Web Frameworks:** React, PHP
+- - **Database:** MySql, Sql
 - **Other:** Computer vision, object detection
 
 ## 📫 Contact Me
