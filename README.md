@@ -6,9 +6,9 @@
 I'm a passionate **Computer Engineering** student at Don Honorio Ventura State University (currently 3rd year).  
 I specialize in **AI model training** (YOLOv5, YOLOv8, Ultralytics, TensorFlow) and **website development** using **HTML, CSS, Python, JavaScript, PHP, and React**.
 
-- 🧠 **Favorite Project:** Person Counter using AI  
-- 🤖 **Interests:** Machine learning, robotics, computer vision
-- 📚 **Learning Goals:** Excited to dive into robotics this vacation!
+-  **Favorite Project:** Person Counter using AI  
+-  **Interests:** Machine learning, robotics, computer vision
+-  **Learning Goals:** Excited to dive into robotics this vacation!
 
 ## 🛠️ Skills & Tools
 - **Languages:** HTML, CSS, Python, JavaScript, PHP
